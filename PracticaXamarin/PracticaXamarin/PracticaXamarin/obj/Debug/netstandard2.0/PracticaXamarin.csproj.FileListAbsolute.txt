@@ -1,0 +1,17 @@
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\bin\Debug\netstandard2.0\PracticaXamarin.deps.json
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\bin\Debug\netstandard2.0\PracticaXamarin.dll
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.csprojResolveAssemblyReference.cache
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.csproj.CoreCompileInputs.cache
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.App.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.MainPage.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.ApuestasView.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.EuiposView.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.RealizarApuestaView.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.AssemblyInfoInputs.cache
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.AssemblyInfo.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.MenuPrincipal.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.MenuPrincipalDetail.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.Views.MenuPrincipalMaster.xaml.g.cs
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\bin\Debug\netstandard2.0\PracticaXamarin.pdb
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.dll
+C:\XamarinVS\PracticaXamarin\PracticaXamarin\PracticaXamarin\obj\Debug\netstandard2.0\PracticaXamarin.pdb
